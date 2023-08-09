@@ -24,7 +24,7 @@ Please refer to the paper<sup>1</sup> for the definition and criteria of each ca
 3.  The **Sentiment Analysis** folder contains the final sentiment label outputs for ChatGPT and SO answers as predicted by the Sentiment Analysis Model<sup>2</sup>. 
 
 ---
-1.
-2. [Cloudy1225/stackoverflow-roberta-base-sentiment](https://huggingface.co/Cloudy1225/stackoverflow-roberta-base-sentiment)
+<sub>1.</sub><br />
+<sub>2. [Cloudy1225/stackoverflow-roberta-base-sentiment](https://huggingface.co/Cloudy1225/stackoverflow-roberta-base-sentiment)</sub>
 
 
