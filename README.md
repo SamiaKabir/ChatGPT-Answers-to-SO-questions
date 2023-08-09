@@ -21,7 +21,7 @@ Please refer to the paper<sup>1</sup> for the definition and criteria of each ca
 
 2. The **LIWC** folder contains the occurrence frequencies of psycholinguistic lexicons in all 2000 answers (both ChatGPT and SO) computed by LIWC 2015.
 
-3.  The **Sentiment Analysis** folder contains the final sentiment label outputs for ChatGPT and SO answers as predicted by the Sentiment Analysis Model<sup>2. 
+3.  The **Sentiment Analysis** folder contains the final sentiment label outputs for ChatGPT and SO answers as predicted by the Sentiment Analysis Model<sup>2</sup>. 
 
 ---
 1.
