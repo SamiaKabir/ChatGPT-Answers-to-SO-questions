@@ -26,6 +26,6 @@ Please refer to the paper<sup>1</sup> for the definition and criteria of each ca
 ---
 <sub>1. [Full Paper](https://dl.acm.org/doi/pdf/10.1145/3613904.3642596) </sub><br />
 <sub>2. [Cloudy1225/stackoverflow-roberta-base-sentiment](https://huggingface.co/Cloudy1225/stackoverflow-roberta-base-sentiment)</sub><br />
-<sub>3. [Supplementary Materials]([https://dl.acm.org/doi/pdf/10.1145/3613904.3642596](https://dl.acm.org/doi/10.1145/3613904.3642596#sec-supp)) </sub>
+<sub>3. [Supplementary Materials](https://dl.acm.org/doi/10.1145/3613904.3642596#sec-supp) </sub>
 
 
